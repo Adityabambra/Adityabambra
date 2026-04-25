@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on strengthening my programming fundamentals through practical projects  <br>👯 I’m open to collaborating on well-documented and impactful software projects  <br>🎯 I’m actively seeking internship and entry-level software development opportunities  <br>🌱 I’m currently learning Python, core computer science concepts, and turning ideas into working solutions  <br>💬 Ask me about Python fundamentals, project structuring, and developing strong project ideas  <br>⚡ Fun fact: I focus on solving the right problems before writing code
+🔭 I’m currently working on strengthening my programming ## 🚀 About Me
+
+💻 Python & Django Developer focused on backend development  
+⚙️ Skilled in building web applications using Django and structured data handling  
+📚 Built projects including a Django-based content platform and Python applications  
+🎯 Currently seeking entry-level opportunities to contribute and grow as a developer  
 
 
 ## 🌐 Socials:
