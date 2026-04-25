@@ -1,23 +1,53 @@
-# 💫 About Me:
-🔭 I’m currently working on strengthening my programming ## 🚀 About Me
+## Hi, I'm Aditya Bambra 👋
 
-💻 Python & Django Developer focused on backend development  
-⚙️ Skilled in building web applications using Django and structured data handling  
-📚 Built projects including a Django-based content platform and Python applications  
-🎯 Currently seeking entry-level opportunities to contribute and grow as a developer  
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/Aditya-Bambra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/_mr_bambra_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linked.com/in/aditya-bambra) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adityabambra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adityabambra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityabambra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💻 Python & Django Developer  
+🚀 Backend Development Enthusiast  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adityabambra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- Python developer with hands-on experience in building web and desktop applications  
+- Skilled in Django for backend development and structured data handling  
+- Strong understanding of core programming concepts, file handling, and problem-solving  
+- Actively seeking entry-level or internship opportunities in backend development  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python  
+- **Frameworks:** Django  
+- **Web:** HTML, CSS, Bootstrap  
+- **Data Handling:** JSON, File Handling  
+- **Libraries:** NumPy, Pandas, Matplotlib  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Coders Library (Django Web Application)
+- Built a Django-based web application for structured technical content management  
+- Implemented backend logic, template rendering, and dynamic content display  
+- Focused on clean structure and user-friendly navigation  
+
+### 📖 Library Management System (Python)
+- Developed a system to manage book records using JSON-based data storage  
+- Implemented CRUD operations and file handling for structured data management  
+
+### 📝 Notepad Application (Tkinter GUI)
+- Designed a desktop text editor with file creation, editing, and saving features  
+- Implemented event handling and GUI components using Tkinter  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: adityabambra@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/aditya-bambra  
+- 💻 GitHub: https://github.com/Adityabambra  
+
+---
+
+⭐ I am continuously working on improving my skills and building real-world projects.
